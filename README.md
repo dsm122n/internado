@@ -1,4 +1,6 @@
 # Internado
+
+
 ## Cardiología
 ### Emergencias hipertensivas
 ![estrategias de tto emergencias HTA](/cardiologia/tto_emergencias_hta.jpeg)
@@ -9,3 +11,8 @@
 ### ácido-base
 ![compensaciones acido base](/nefrologia/acid_base_compensation_rules.jpeg)
 ![mapa acido base](/nefrologia/acid_base_map.jpeg)
+
+## Infectología
+### Espectro antibiótico
+![espectro antibiótico](/infectologia/espectro_atb_1.jpeg)
+![espectro antibiótico](/infectologia/espectro_atb_2.jpeg)
