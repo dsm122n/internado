@@ -1,5 +1,5 @@
-# internado
+# Internado
 ## Cardiología
 ### Emergencias hipertensivas
-![estrategias de tto emergencias HTA](/internado/cardiologia/tto_emergencias_hta.jpg)
-![fcos emergencias HTA](/internado/cardiologia/fcos_emergencias_hta.jpg)
+![estrategias de tto emergencias HTA](/cardiologia/tto_emergencias_hta.jpeg)
+![fcos emergencias HTA](/cardiologia/fcos_emergencias_hta.jpeg)
