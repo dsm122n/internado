@@ -16,3 +16,9 @@
 ### Espectro antibiótico
 ![espectro antibiótico](/infectologia/espectro_atb_1.jpeg)
 ![espectro antibiótico](/infectologia/espectro_atb_2.jpeg)
+
+## Broncopulmonar
+### Asma
+![gina asma inicio](/broncopulmonar/gina_starting_treatment.png)
+![gina asma mantenimiento](/broncopulmonar/gina_tto_asma.png)
+
