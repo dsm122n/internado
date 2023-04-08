@@ -25,5 +25,6 @@
 ![gina asma mantenimiento](/broncopulmonar/gina_tto_asma.png)
 ### Dosis corticoides
 Ejemplo presentación y dosis media: budesonida-formoterol 200/6 mcg 2 puff inhalada 2 veces al día
-
 ![gina dosis corticoides](/broncopulmonar/gina_dosis.JPG)
+### Insuficiencia respiratoria aguda
+![formulas ira](/broncopulmonar/formulas_insuficiencia_respiratoria.jpg)
