@@ -18,6 +18,7 @@
 ![espectro antibiótico](/infectologia/espectro_atb_2.jpeg)
 ![espectro gram positivo](/infectologia/espectro_gram_positivo.jpeg)
 ![espectro gram negativo](/infectologia/espectro_gram_negativo.jpeg)
+![inicio atb criterios loebs](/infectologia/loebs_minimum_criteria.jpeg)
 
 ## Broncopulmonar
 ### Asma
