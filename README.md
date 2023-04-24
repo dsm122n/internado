@@ -34,3 +34,6 @@ Ejemplo presentación y dosis media: budesonida-formoterol 200/6 mcg 2 puff inha
 ![gina dosis corticoides](/broncopulmonar/gina_dosis.JPG)
 ### Insuficiencia respiratoria aguda
 ![formulas ira](/broncopulmonar/formulas_insuficiencia_respiratoria.jpg)
+
+## Geriatría
+![criterios de beers](beers criteria.jpeg)
