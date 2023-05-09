@@ -1,5 +1,6 @@
 # Internado
 
+[cardio ecg](/cardiologia/criterios_ecg/README.md)
 [broncopulmonar](/broncopulmonar/broncopulmonar.md)
 
 ## Cardiología
