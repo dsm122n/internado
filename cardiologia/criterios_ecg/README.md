@@ -17,9 +17,12 @@ Cálculo de QTc:
 $$ QTc = \frac{QT}{\sqrt{RR}} $$
 
 Cálculo FC:
- $$ FC = \frac{60}{RR [s]} $$
- $$ FC = \frac{300 (=1')}{nº cuadros\ grandes\ (CG)\ entre\ RR} $$
- $$ FC = \frac{300 (=1')}{nº CG + 0.2*C_{pequeños}} $$
+
+$$ FC = \frac{60}{RR [s]} $$
+
+$$ FC = \frac{300 (=1')}{nº cuadros\ grandes\ (CG)\ entre\ RR} $$
+
+$$ FC = \frac{300 (=1')}{nº CG + 0.2*C_{pequeños}} $$
 - Si ritmo irregular, contar en 6 segundos (30 cuadros grandes) y multiplicar por 10. 
 
 
