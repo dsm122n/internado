@@ -1,5 +1,37 @@
 # Criterios más importantes ECG
 
+## Valores normales ECG:
+
+| Parámetro | Valor | 
+|-----------|-------|
+| FC        | 60-100 lpm |
+| P        | < 0.12 s y < 0.25 mV|
+| PR        | 120-200 ms |
+| QRS       | < 120 ms |
+| QT        | < 440 ms |
+| QTc       | < 460 ms |
+
+
+Cálculo de QTc: 
+$$ QTc = \frac{QT}{\sqrt{RR}} $$
+
+Cálculo FC:
+- $ FC = \frac{60}{RR [s]} $
+- $ FC = \frac{300 (=1')}{nº cuadros\ grandes\ (CG)\ entre\ RR} $
+- $ FC = \frac{300 (=1')}{nº CG + 0.2*C_{pequeños}} $
+- Si ritmo irregular, contar en 6 segundos (30 cuadros grandes) y multiplicar por 10. 
+
+
+Tabla de cálculo de FC según cuadrados grandes entre RR:
+| Nº cuadros grandes | FC |
+|:------------------:|:--:|
+| 1                   | 300 |
+| 2                   | 150 |
+| 3                   | 100 |
+| 4                   | 75 |
+| 5                   | 60 |
+| 6                   | 50 |
+
 ## SCA
 Supradesnivel ST: >1mm en cualquier derivada, salvo V2 y V3
 Infradesnivel ST: > 0.5mm en cualquier derivada, salvo V2 y V3 (donde es >1mm)
