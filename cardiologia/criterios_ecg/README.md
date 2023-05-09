@@ -2,17 +2,18 @@
 
 ## Valores normales ECG:
 
-| Parámetro | Valor | 
-|-----------|-------|
-| FC        | 60-100 lpm |
-| P        | < 0.12 s y < 0.25 mV|
-| PR        | 120-200 ms |
-| QRS       | < 120 ms |
-| QT        | < 440 ms |
-| QTc       | < 460 ms |
+| Parámetro | Valor |           | Nº cuadros grandes | FC |
+|-----------|-------| -         |:------------------:|:--:|
+| FC        | 60-100 lpm |      | 1   | 300 |
+| P        | < 0.12 s y < 0.25 mV| | 2   | 150 |
+| PR        | 120-200 ms |      | 3   | 100 |
+| QRS       | < 120 ms |        | 4   | 75 |
+| QT        | < 440 ms |        | 5   | 60 |
+| QTc       | < 460 ms |        | 6   | 50 |
 
 
 Cálculo de QTc: 
+
 $$ QTc = \frac{QT}{\sqrt{RR}} $$
 
 Cálculo FC:
@@ -21,16 +22,6 @@ Cálculo FC:
 - $ FC = \frac{300 (=1')}{nº CG + 0.2*C_{pequeños}} $
 - Si ritmo irregular, contar en 6 segundos (30 cuadros grandes) y multiplicar por 10. 
 
-
-Tabla de cálculo de FC según cuadrados grandes entre RR:
-| Nº cuadros grandes | FC |
-|:------------------:|:--:|
-| 1                   | 300 |
-| 2                   | 150 |
-| 3                   | 100 |
-| 4                   | 75 |
-| 5                   | 60 |
-| 6                   | 50 |
 
 ## SCA
 Supradesnivel ST: >1mm en cualquier derivada, salvo V2 y V3
