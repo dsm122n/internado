@@ -1,5 +1,6 @@
 # Internado
 
+[broncopulmonar](/broncopulmonar/broncopulmonar.md)
 
 ## Cardiología
 ### Emergencias hipertensivas
