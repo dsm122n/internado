@@ -66,6 +66,30 @@ Enfermedad multivaso
 
 ![infarto previo](image-1.png)
 
+## Dx Taquicardias según duración QRS y regularidad del ritmo
+
+![diferencias_taquicardias](image-5.png)
+
+### Pasos para evaluar una TC QRS angosto 
+1) Regularidad
+2) Ondas P presentes y morfología:
+   - normales: taquicardia sinusal
+   - Similar a ritmo sinusal: sinusal, atrial, reentrada sinoatrial, foco ectópico cercano a nodo sinusal 
+   - Ondas P anormales no retrogradas: taquicardia atrial (a veces AVRT)
+   - P retrograda (+ en aVR, - en II, III, aVF): AVNRT, AVRT, taquicardia de la unión
+3) Intervalo RP: 
+   - **corto (<70-90 ms)** -> AVNRT, 
+   - largo -> P retrograda AVNRT o AVRT *atípica*, P anormal taquicardia **atrial**
+
+4) otros:  
+   - Alternancia eléctrica: retrada auriculo ventricular, si no (todos misma altura) reentrada AVNRT
+5) Respuesta a adenosina
+   - Si se para definitivamente: AVNRT, AVRT ortodrómica, reentrada nodo sinusal
+   - disminuye FC, luego vuelve a aumentar: sinusal, atrial, de la unión
+   - Persiste: flutter, micro reentrada, taquicardia ventricular, auricular focal
+
+![Algoritmo TSV](image-7.png)
+
 ## Taquicardia ventricular vs taquicardia supraventricular con conducción aberrante
 
 https://litfl.com/vt-versus-svt-ecg-library/
@@ -77,6 +101,9 @@ https://litfl.com/vt-versus-svt-ecg-library/
 | Ritmo | Regular | Regular |
 | FC | 100-250 lpm | 150-250 lpm |
 | Ondas P | No visibles | Visibles |
+
+![Resumen ESC de criterios](image-6.png)
+
 
 Criterios de Brugada y Vereckei para diferenciar taquicardia ventricular de taquicardia supraventricular con conducción aberrante:
 
