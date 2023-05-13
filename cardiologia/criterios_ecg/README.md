@@ -107,14 +107,23 @@ https://litfl.com/vt-versus-svt-ecg-library/
 
 Criterios de Brugada y Vereckei para diferenciar taquicardia ventricular de taquicardia supraventricular con conducción aberrante:
 
-![criterios brugada](image-3.png)
-![criterios vereckei](image-4.png)
+| ![criterios brugada](image-3.png) | ![criterios vereckei](image-4.png) |
+|-----------------------------------|------------------------------------|
+
 
 
 ## Criterios de hipertrofia ventricular izquierda (HVI)
 
+Índice de Sokolow-Lyon: S en [V1] + R en [V5 o V6] > 35 mm
+
+|Criterio | Cálculo | Valor |
+|---------|---------|-------|
+|Sokolow-Lyon | S en [V1] + R en [V5 o V6] | > 35 mm |
+|Lewis | S en [V1] + R en [V6] | > 25 mm |
+|Cornell | S en [V3] + R en [aVL] | > 28 mm (mujer) o > 20 mm (hombre) |
 
 
+-------------
 Una cosita linda: 
 
 ![R-CAT](image-2.png)
