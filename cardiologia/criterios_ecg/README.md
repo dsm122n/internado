@@ -54,8 +54,10 @@ Cuando pedir otras derivadas.
 - infradesnivel ST en V1-V3 (sospecha de **infarto posterior**): derivadas posteriores (V7-V9)
 - supra ST en **pared inferior** (II, III, aVF): derivadas derechas (V3R-V6R)
 
-BCRI no es criterio de SCA. En BCRI suele haber un supradesnivel ST en V1-V3. Para valorar si es IAM, revisar criterios de Sgarbossa.
+BCRI no es criterio de SCA. En BCRI suele haber un supradesnivel ST en V1-V3. Para valorar si es IAM, revisar criterios de Sgarbossa. Si aparece BCRI posterior a reperfusión
 ![criterios sgarbossa](bcri_sgarbossa.png)
+
+Ojito: con reperfusión efectiva se puede dar un trazado con BCRI (ritmo idioventricular acelerado???) 
 
 Enfermedad multivaso
 
