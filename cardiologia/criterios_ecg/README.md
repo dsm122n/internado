@@ -45,6 +45,7 @@ Inversión onda T:
 
 ![paredes](paredes_arterias.png)
 
+Ojito: dominancia 
 
 ### Presentaciones atípicas
 
