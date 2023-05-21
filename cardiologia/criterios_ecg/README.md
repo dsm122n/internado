@@ -51,18 +51,24 @@ Inversión onda T:
 ![presentaciones atípicas en ECG según ESC](esc_ecg_iam_atipico.png)
 
 Cuando pedir otras derivadas.
-- infradesnivel ST en V1-V3 (sospecha de **infarto posterior**): derivadas posteriores (V7-V9)
+- infradesnivel ST en V1-V3 (sospecha de **infarto posterior**): derivadas posteriores (V7-V9). 
+   - SDST en V7 a V9 debe ser >= a 0.5 mm -> reperfusión urgente
 - supra ST en **pared inferior** (II, III, aVF): derivadas derechas (V3R-V6R)
+   - ojo infarto VD con hipotensión arterial e ingurgitación yugulares
 
-BCRI no es criterio de SCA. En BCRI suele haber un supradesnivel ST en V1-V3. Para valorar si es IAM, revisar criterios de Sgarbossa. Si aparece BCRI posterior a reperfusión
+BCRI no es criterio de SCA. En BCRI suele haber un supradesnivel ST en V1-V3. Para valorar si es IAM, revisar criterios de Sgarbossa. Si aparece BCRI posterior a reperfusión. Según código de IAM minsal, BCRI nuevo puede considerarse IAM CEST
 ![criterios sgarbossa](bcri_sgarbossa.png)
 
 Ojito: con reperfusión efectiva se puede dar un trazado con BCRI (ritmo idioventricular acelerado???) 
 
 Enfermedad multivaso
 
-- infradesnivel ST > 1mm en >= 8 derivadas
+- infradesnivel ST > 1mm en >= 8 (o 6) derivadas
 - supradesnivel ST en aVR o V1
+
+Síndrome de Wellens  (sugiere estenosis severa de ADA):
+- T negativa y simétrica en V1,V2,V3,V4,V5 y/o V6 
+- T bifásica en V2 y V3
 
 ### Infarto previo
 
