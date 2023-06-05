@@ -73,3 +73,30 @@ Ejemplo presentación y dosis media: budesonida-formoterol 200/6 mcg 2 puff inha
 
 ## Geriatría
 ![criterios de beers](/Beers critera.jpeg)
+
+## Endocrinología
+
+### Tiroides
+Grupos tamizaje hipotiroidismo:
+
+- Antecedentes de cirugía tiroidea, terapia con radioyodo o radioterapia cervical.
+- Disfunción tiroidea previa conocida.
+- Presencia de anticuerpos antitiroideos.
+- Hipercolesterolemia.
+- IMC > 30.
+- Infertilidad.
+- Embarazadas.
+- Hallazgo de bocio al examen físico.
+- Uso crónico de amiodarona o litio.
+- < de 65 años con Depresión confirmada.
+- ≥ de 65 años con sospecha de depresión o trastornos cognitivos.
+- Síndrome de Down.
+- Síndrome de Turner.
+- Antecedente personal de otras enfermedades autoinmunes:
+  - Diabetes Mellitus 1.
+  - Sindrome Sjögren.
+  - Esclerosis sistémica progresiva.
+  - Artritis reumatoide.
+  - Enfermedad de Addison.
+  - Enfermedad celíaca.
+  - Vitiligo.
