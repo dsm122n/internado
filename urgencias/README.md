@@ -21,3 +21,22 @@ Fármacos para bloqueo neuromuscular:
 | Rocuronio | no despolarizante (sitio alostérico) | 1.2 mg/kg (en secuencia de intubación rápida, porque en intubación en pabellón se usa la mitad o menos, para que dure menos tiempo) | 45 a 60 s | 30 a 60 min | Reversor neostigmina pero se necesitaría mucho y ¿gabaex?, No hiperkalemia, no fasciculaciones, no hipertermia maligna |  |
 
 Por duración y tiempo de inicio se puede elegir. Si va a ser difícil: succinilcolina, porque si me equivoco, dejará de hacer efecto en 5 a 10 minutos y se puede continuar ventilando con mascarilla con reservorio o ambú. Si no, rocuronio, porque se puede estar intentando varias veces con plan A, B, C, etc. 
+
+# Drogas vasoactivas
+
+![drogas vasoactivas dosis](image-3.png)
+Si hay evidencia de Shock Cardiogénico de preferencia usar Norepinefrina, menor mortalidad que Dopamina en este escenario (NEJM 2010; 362: 779-89).
+Si Shock Anafiláctico: Adrenalina.
+Si Shock Séptico con bajo Gasto Cardiaco y adecuada reanimación con volumen: Evaluar uso de Dobutamina como 1a opción.
+Si Shock Obstructivo: Mejorar primero la causa, se sugieren vasopresores y evitar uso de inótropos.
+
+¿Qué dosis? Norepinefrina desde 0,1 ug/kg/min, no hay una dosis tope descrita aunque se sabe que mayor a 0,3 ug/kg/min ya la mortalidad es tan alta como un 60% o más.
+
+# Ecografía
+
+![Rush protocol](image.png)
+
+![Rush scheme](image-1.png)
+
+![Rush algorithmic aproach](image-2.png)
+[POCUS atlas](https://www.thepocusatlas.com/shock)
