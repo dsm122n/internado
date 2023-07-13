@@ -40,3 +40,15 @@ Si Shock Obstructivo: Mejorar primero la causa, se sugieren vasopresores y evita
 
 ![Rush algorithmic aproach](image-2.png)
 [POCUS atlas](https://www.thepocusatlas.com/shock)
+
+# TEC 
+| Complicación | Hallazgos |
+| --- | --- |
+| fracturas craneales | herida contusa en región parietal izquierda |
+| fractura base de craneo | otorraquia, rinorragia, equimosis periorbitaria ("ojos de mapache"), hemotimpano, equimosis retroauricular (signo de Battle)|
+| contusión cerebral | alteración de conciencia, focalidad neurológica, convulsiones |
+| hemorragia sub aracnoidea | cefalea, náuseas, vómitos, rigidez de nuca, fotofobia, alteración de conciencia |
+| hematoma epidural (extradural) | cefalea, náuseas, vómitos, alteración de conciencia, focalidad neurológica, convulsiones |
+| hematoma subdural | cefalea, náuseas, vómitos, alteración de conciencia, focalidad neurológica, convulsiones |
+| herniación | alteración de conciencia, focalidad neurológica, convulsiones, signos vitales alterados |
+| lesiones penetrantes | herida en cuero cabelludo, herida en cara, herida en cuello, herida en tórax, herida en abdomen, herida en extremidades, herida en región perineal |
