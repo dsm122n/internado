@@ -45,7 +45,7 @@ Si Shock Obstructivo: Mejorar primero la causa, se sugieren vasopresores y evita
 | Complicación | Hallazgos |
 | --- | --- |
 | fracturas craneales | herida contusa en región parietal izquierda |
-| fractura base de craneo | otorraquia, rinorragia, equimosis periorbitaria ("ojos de mapache"), hemotimpano, equimosis retroauricular (signo de Battle)|
+| fractura base de craneo | otorragia, rinorragia, equimosis periorbitaria ("ojos de mapache"), hemotimpano, equimosis retroauricular (signo de Battle), déficit de pares craneales|
 | contusión cerebral | alteración de conciencia, focalidad neurológica, convulsiones |
 | hemorragia sub aracnoidea | cefalea, náuseas, vómitos, rigidez de nuca, fotofobia, alteración de conciencia |
 | hematoma epidural (extradural) | cefalea, náuseas, vómitos, alteración de conciencia, focalidad neurológica, convulsiones |
