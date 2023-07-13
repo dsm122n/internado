@@ -56,3 +56,7 @@ Si Shock Obstructivo: Mejorar primero la causa, se sugieren vasopresores y evita
 
 Signos de presión intracraneana elevada: asimetría pupilar, 
 Triada de cushing: bradicardia, hipertensión arterial y respiración irregular. 
+
+# Intoxicaciones
+Antídotos para intoxicaciones específicas e indicaciones
+![antidotos](antidotos_intoxicaciones.jpeg)
