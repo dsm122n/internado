@@ -59,4 +59,5 @@ Triada de cushing: bradicardia, hipertensión arterial y respiración irregular.
 
 # Intoxicaciones
 Antídotos para intoxicaciones específicas e indicaciones
-![antidotos](antidotos_intoxicaciones.jpeg)
+![antidotos](antidotos_intoxicaciones(2).jpeg)
+![antidotos cardiovasculares](antidotos_drogas_cardiovasculares.jpeg)
