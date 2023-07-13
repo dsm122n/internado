@@ -52,3 +52,7 @@ Si Shock Obstructivo: Mejorar primero la causa, se sugieren vasopresores y evita
 | hematoma subdural | cefalea, náuseas, vómitos, alteración de conciencia, focalidad neurológica, convulsiones |
 | herniación | alteración de conciencia, focalidad neurológica, convulsiones, signos vitales alterados |
 | lesiones penetrantes | herida en cuero cabelludo, herida en cara, herida en cuello, herida en tórax, herida en abdomen, herida en extremidades, herida en región perineal |
+
+
+Signos de presión intracraneana elevada: asimetría pupilar, 
+Triada de cushing: bradicardia, hipertensión arterial y respiración irregular. 
