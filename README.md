@@ -100,3 +100,11 @@ Grupos tamizaje hipotiroidismo:
   - Enfermedad de Addison.
   - Enfermedad celíaca.
   - Vitiligo.
+
+
+# fármacos con dosis y presentaciones
+
+| fármaco | presentación | dosis | comentarios |
+|:---:|:---:|:---:|---|
+| Adrenalina | 1mg/ml | 1mg iv en PCR, 0.3 a 0.5 mg im en anafilaxia | |
+| Adenosina  | 6mg/2ml | 1a 6 mg iv, 2a 12mg iv | usualmente en taquicardia qrs angosto regular, podría usarse en qrs ancho regular para dx TV vs TSV |
