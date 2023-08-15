@@ -102,6 +102,36 @@ Grupos tamizaje hipotiroidismo:
   - Vitiligo.
 
 
+## Oftalmología
+
+### Trauma ocular
+![trauma ocular grave](oftalmologia/image.png)
+![ocular trauma score](oftalmologia/ocular_trauma_score.jpeg)
+### Ojo rojo
+
+![algoritmo ojo rojo](/oftalmologia/ojo%20rojo%20diagnóstico%20diferencial.png)
+
+
+#### Difuso/superficial
+
+#### Periquerático/profundo
+- Glaucoma 
+NO dat atropina ni midriáticos (dilatan pupila y empeoran glaucoma)
+(cursivas --> not sure)
+
+| Fco | Dosis | Presentación | Comentarios |
+|---|---|---|---|
+| Pilocarpina | *1 a 2 gotas* | *2%* | colinérgico: drenaje vía trabecular |
+| Latanoprost | *1 gota* | *0.005%* | análogo prostaglandinas: drenaje vía uveoescleral  |
+| Timolol | *1 gota* | *0.5%* | beta bloqueador: disminuye producción humor acuoso |
+| Brimonidina | *1 gota* | *0.2%* | agonista alfa 2: disminuye producción humor acuoso |
+| Acetazolamida | 250mg c/6h, 500 mg (carga) VO| 250 mg | inhibidor anhidrasa carbónica: disminuye producción humor acuoso. Contrind: alergia sulfonamidas, EPOC severo, ¿etnia afrocaribeña? (anemia falciforme), antecedente litiasis, embarazo |
+| Manitol | 15% ->**10** a 13 cc/kg. 20% ->7.5 a **10 cc/kg** EV| 15% o 20% | osmótico: deshidratación de humor ¿vitreo?. Contraind: Hipersensibilidad, EPA, Anuria-deshidratación severa, insuf cardiaca-renal-hepática, Eo confusión mental, hipotermia |
+
+- Uveítis (ojo similar a glaucoma, pero sin aumento presión intraocular)
+- Queratitis
+#### Localizado
+
 # fármacos con dosis y presentaciones
 
 | fármaco | presentación | dosis | comentarios |
