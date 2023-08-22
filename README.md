@@ -104,6 +104,12 @@ Grupos tamizaje hipotiroidismo:
 
 ## Oftalmología
 
+### Retinopatía diabética
+
+![estadíos retinopatía diabética](oftalmologia/estadíos_retinopatía%20diabética.jpeg)
+![seguimiento retinopatía dm](oftalmologia/retinopatía_dm_seguimiento.jpeg)
+- Criterios derivación
+![derivación retinopatía dm](oftalmologia/derivacion_retinopatia_dm.png)
 ### Trauma ocular
 ![trauma ocular grave](oftalmologia/image.png)
 ![ocular trauma score](oftalmologia/ocular_trauma_score.jpeg)
@@ -128,10 +134,26 @@ NO dat atropina ni midriáticos (dilatan pupila y empeoran glaucoma)
 | Acetazolamida | 250mg c/6h, 500 mg (carga) VO| 250 mg | inhibidor anhidrasa carbónica: disminuye producción humor acuoso. Contrind: alergia sulfonamidas, EPOC severo, ¿etnia afrocaribeña? (anemia falciforme), antecedente litiasis, embarazo |
 | Manitol | 15% ->**10** a 13 cc/kg. 20% ->7.5 a **10 cc/kg** EV| 15% o 20% | osmótico: deshidratación de humor ¿vitreo?. Contraind: Hipersensibilidad, EPA, Anuria-deshidratación severa, insuf cardiaca-renal-hepática, Eo confusión mental, hipotermia |
 
+![tratamiento glaucoma agudo](oftalmologia/tratamiento_glaucoma_agudo.png)
+
 - Uveítis (ojo similar a glaucoma, pero sin aumento presión intraocular)
 - Queratitis
 #### Localizado
 
+### Super resumen Oftalmo
+Esquema general abordaje patologías oftalmológicas
+strong
+
+| Traumatológica | No traumatológica |
+|---|---|
+| Ojo abierto: </br> <li>ATB (moxifloxacino)</li><li> sello ocular no compresivo **ESTERIL**</li> <li>Llamar UTO para reservar cupo</li>  | Enfermedad sistémica:</br> <li>Afinar ojo para realizar d/dx pertinente (por lo general med int o neuro)</li>  |
+| Causticación: <li>Irrigación abundante SF (3L o 30 minutos)</li><li>limpiar fondos de saco con cotonitos</li><li>derivar a UTO</li>| Enfermedad primaria del ojo, conocer manejo inicial de <li>Sd Glaucoma agudo</li><li>Celulitis (pre y post-septal)</li><li>Glaucoma congenito (y dg diferenciales)</li> |
+| Resto patol trauma ocular se manejan de la misma forma entre sí y se derivan | |
+
+
+
+### Otros datos
+- Gentamicina NO se da en oftalmo porque es muy irritativa
 # fármacos con dosis y presentaciones
 
 | fármaco | presentación | dosis | comentarios |
