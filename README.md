@@ -146,7 +146,7 @@ strong
 
 | Traumatológica | No traumatológica |
 |---|---|
-| Ojo abierto: </br> <li>ATB (moxifloxacino)</li><li> sello ocular no compresivo **ESTERIL**</li> <li>Llamar UTO para reservar cupo</li>  | Enfermedad sistémica:</br> <li>Afinar ojo para realizar d/dx pertinente (por lo general med int o neuro)</li>  |
+| Ojo abierto: </br> <li>ATB (moxifloxacino)</li><li> sello ocular no compresivo **ESTERIL**</li> <li>Llamar UTO para reservar cupo</li>  | Enfermedad sistémica:</br> <li>Afinar ojo para realizar d/dx pertinente (por lo general med int o neuro)</li>  </br> <table><tr><td>hola<td></tr></table>|
 | Causticación: <li>Irrigación abundante SF (3L o 30 minutos)</li><li>limpiar fondos de saco con cotonitos</li><li>derivar a UTO</li>| Enfermedad primaria del ojo, conocer manejo inicial de <li>Sd Glaucoma agudo</li><li>Celulitis (pre y post-septal)</li><li>Glaucoma congenito (y dg diferenciales)</li> |
 | Resto patol trauma ocular se manejan de la misma forma entre sí y se derivan | |
 
