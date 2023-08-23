@@ -144,14 +144,27 @@ NO dat atropina ni midriáticos (dilatan pupila y empeoran glaucoma)
 Esquema general abordaje patologías oftalmológicas
 strong
 
-| Traumatológica | No traumatológica |
+| Traumatológica |
+|---|
+| **Ojo abierto**: <table><tr><th>Sospecha</th><th>Manejo</th></tr><tr><td><li>herniación contenido</li><li>Discoria (ojoabierto hasta demostrar lo contrario)</li><li>Hifema total (en bola 8, puede ser hematoglobo)</li><li>Hipotonía</li></td><td><li>ATB (1-moxifloxacino 400mg ev/vo 2-Cipro750mg vo c/12 + cefazolina500mg ev c/6h)</li><li> sello ocular no compresivo **ESTERIL**</li> <li>no valsalva ni colirios</li><li>Llamar UTO para reservar cupo</li><li>Si sospecha CE intraocular: Rx AP/L o TC s/c 2mm</li></td></tr></table>|
+| **Causticación**: <table><tr><th>Sospecha</th><th>Manejo inicial</th></tr><tr><td>historia + clasificación de Hughes (grados 1 a 4)</td><td><li>Irrigación abundante SF (3L o 30 minutos) (se puede utilizar diphoterine 500 a 1000 cc)</li><li>limpiar fondos de saco con cotonitos</li><li>derivar a UTO</li></td></tr></table> |
+| Resto patol trauma ocular se podría derivar sin intervención previa (o buscar en google [MANUAL DE BOLSILLO Manejo del trauma ocular para profesionales de la salud](https://enfermeriachl.files.wordpress.com/2019/11/manual-de-bolsillo_trauma-ocular.pdf) para info específica) |
+
+
+--------
+
+| No traumatológica |
+|---|
+| Enfermedad sistémica:</br> <li>Afinar ojo para realizar d/dx pertinente (por lo general med int o neuro)</li>  </br> |
+| Enfermedad primaria del ojo, conocer manejo inicial de <li>Sd Glaucoma agudo</li><li>Celulitis (pre y post-septal)</li><li>Glaucoma congenito (y dg diferenciales)</li> |
+
+Sd Glaucoma agudo:
+Glaucoma =/=> aumento presión intraocular
+| Sospecha | Manejo |
 |---|---|
-| **Ojo abierto**: <table><tr><th>Sospecha</th><th>Manejo</th></tr><tr><td><li>herniación contenido</li><li>Discoria (ojoabierto hasta demostrar lo contrario)</li><li>Hifema total (en bola 8, puede ser hematoglobo)</li><li>Hipotonía</li></td><td><li>ATB (moxifloxacino)</li><li> sello ocular no compresivo **ESTERIL**</li> <li>Llamar UTO para reservar cupo</li></td></tr></table>| |
+|<li>ojo rojo profundo (con edema corneal)</li><li>duro</li><li>disminución agudeza visual</li><li>semimidriasis arrefléctica</li> | <li>Acetazolamida 2x250mg de carga, luego 250 mg c/6h</li><li>los colirios que se dispongan para disminuir P</li><li>d/dx urgente</li><li>Manitol 15% ->10 a 13 cc/kg. 20% ->7.5 a 10 cc/kg EV funciona mientras se infunde, se puede dar, pero ojo con contraindicaciones</li> |
 
-  | Enfermedad sistémica:</br> <li>Afinar ojo para realizar d/dx pertinente (por lo general med int o neuro)</li>  </br> <table><tr><td>hola<td></tr></table>|
-| Causticación: <li>Irrigación abundante SF (3L o 30 minutos)</li><li>limpiar fondos de saco con cotonitos</li><li>derivar a UTO</li>| Enfermedad primaria del ojo, conocer manejo inicial de <li>Sd Glaucoma agudo</li><li>Celulitis (pre y post-septal)</li><li>Glaucoma congenito (y dg diferenciales)</li> |
-| Resto patol trauma ocular se manejan de la misma forma entre sí y se derivan | |
-
+![clasificación glaucoma](oftalmologia/clasificacion_glaucoma.jpeg)
 
 
 ### Otros datos
